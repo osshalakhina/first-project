@@ -7,6 +7,10 @@ __________
 
 * HTML
 * CSS
+
+### Ссылка на проект: 
+
+[https://osshalakhina.github.io/first-project/](https://osshalakhina.github.io/first-project/)
 __________
 # first-project: page 404
 
