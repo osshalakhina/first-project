@@ -17,4 +17,7 @@ Page 404, first progect on cource Yandex Prakticum.
 * HTML
 * CSS
 
-https://osshalakhina.github.io/first-project/
+### Link on project: 
+
+[https://osshalakhina.github.io/first-project/](https://osshalakhina.github.io/first-project/)
+
