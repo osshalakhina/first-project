@@ -25,3 +25,4 @@ Page 404, first progect on cource Yandex Prakticum.
 
 [https://osshalakhina.github.io/first-project/](https://osshalakhina.github.io/first-project/)
 
+[](Project.png)
