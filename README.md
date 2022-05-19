@@ -27,4 +27,4 @@ Page 404, first progect on cource Yandex Prakticum.
 
 # Preview
 
-[](./first-project/Project.png)
+[](Project.png)
